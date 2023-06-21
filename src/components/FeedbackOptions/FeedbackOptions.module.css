@@ -1,0 +1,18 @@
+.buttons {
+    margin-left: 40px;
+}
+
+.button {
+    height: 25px;
+    margin-right: 5px;
+    border-radius: 4px;
+    border: none;
+    background-color: blue;
+    cursor: pointer;
+}
+.button:first-child {
+    background-color: green;
+}
+.button:last-child {
+    background-color: red;
+}
